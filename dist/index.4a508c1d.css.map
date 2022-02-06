@@ -1,0 +1,1 @@
+{"mappings":"AAEA;EACI","sources":["src/styles.scss"],"sourcesContent":["@use \"~sass-rem\" as *;\r\n\r\nbody {\r\n    background: pink;\r\n}"],"names":[],"version":3,"file":"index.4a508c1d.css.map","sourceRoot":"/__parcel_source_root/"}
